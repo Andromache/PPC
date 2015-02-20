@@ -35,3 +35,39 @@ div.wrapper{
 			margin-left: 15px;
 			margin-top: 15px;
 		}
+		div.small_content1{
+			width: 22.5%;
+			min-height: 100px;
+			background-color: yellow;
+			display: inline-block;
+			margin-left: 20px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
+		div.small_content2{
+			width: 22.5%;
+			min-height: 100px;
+			background-color: yellow;
+			display: inline-block;
+			margin-left: 15px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
+		div.small_content3{
+			width: 22.5%;
+			min-height: 100px;
+			background-color: yellow;
+			display: inline-block;
+			margin-left: 15px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
+		div.small_content4{
+			width: 22.5%;
+			min-height: 100px;
+			background-color: yellow;
+			display: inline-block;
+			margin-left: 15px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+		}
