@@ -4,18 +4,34 @@
 	outline: 1px dotted red;
 }
 
-.wrapper{
+div.wrapper{
 	width: 970px;
 	min-height: 100px;
 }
 
-.header{
-	width: 100%;
-	min-height: 100px;
-	background-color: gray;
+	div.header{
+		width: 100%;
+		min-height: 100px;
+		background-color: gray;
 }
-.body{
-	width: 100%;
-	min-height: 200px;
-	background-color: black;
-}
+	div.body{
+		width: 100%;
+		min-height: 200px;
+		background-color: black;
+	}
+		div.left_content{
+			width: 35%;
+			min-height: 100px;
+			background-color: blue;
+			display: inline-block;
+			margin-left: 20px;
+			margin-top: 15px;
+		}
+		div.right_content{
+			width: 59%;
+			min-height: 100px;
+			background-color: yellow;
+			display: inline-block;
+			margin-left: 15px;
+			margin-top: 15px;
+		}
